@@ -1,2 +1,2 @@
 # Algorithms
-Showing different algorithms
+Showcasing different algorithms.
