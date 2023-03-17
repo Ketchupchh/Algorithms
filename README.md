@@ -1,2 +1,2 @@
 # Algorithms
-Showcasing different algorithms.
+Showcasing different sorting algorithms.
